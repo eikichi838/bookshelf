@@ -1,0 +1,186 @@
+---
+kindle-sync:
+  bookId: '8253'
+  title: エッセンシャル思考 最少の時間で成果を最大にする
+  author: グレッグ・マキューン and 高橋璃子
+  asin: B00QQKCV6E
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/716C4bwg9DL._SY160.jpg'
+  highlightsCount: 56
+---
+# エッセンシャル思考 最少の時間で成果を最大にする
+## Metadata
+* Author: [グレッグ・マキューン and 高橋璃子](https://www.amazon.comundefined)
+* ASIN: B00QQKCV6E
+* Reference: https://www.amazon.com/dp/B00QQKCV6E
+* [Kindle link](kindle://book?action=open&asin=B00QQKCV6E)
+
+## Highlights
+「やらなくては」「どれも大事」「全部できる」 — location: [111](kindle://book?action=open&asin=B00QQKCV6E&location=111) ^ref-13582
+
+---
+仕事の依頼が来ると、 　「この — location: [138](kindle://book?action=open&asin=B00QQKCV6E&location=138) ^ref-64003
+
+---
+仕事をやりとげるための時間とリソースは足りているか？」 — location: [138](kindle://book?action=open&asin=B00QQKCV6E&location=138) ^ref-43327
+
+---
+社内メールで繰り広げられる議論には口を出さなくなったし、関係のない話し合いにも参加しなくなった。自分が直接関係することでないかぎり、なるべく会議も断るようにした。 — location: [148](kindle://book?action=open&asin=B00QQKCV6E&location=148) ^ref-19693
+
+---
+断ることを極端に嫌う世の中の風潮だ。 — location: [257](kindle://book?action=open&asin=B00QQKCV6E&location=257) ^ref-47834
+
+---
+はすでに持っているものを、実際よりも高く評価する傾向があるという。 — location: [328](kindle://book?action=open&asin=B00QQKCV6E&location=328) ^ref-31832
+
+---
+どの問題がいちばん重要か？」と考えよう。 — location: [364](kindle://book?action=open&asin=B00QQKCV6E&location=364) ^ref-36387
+
+---
+選択とは、行動なのだ。与えられるものではなく、つかみとるもの — location: [472](kindle://book?action=open&asin=B00QQKCV6E&location=472) ^ref-17794
+
+---
+誰かの言いなりになっていないだろうか？ — location: [476](kindle://book?action=open&asin=B00QQKCV6E&location=476) ^ref-8323
+
+---
+学習性無力感 — location: [499](kindle://book?action=open&asin=B00QQKCV6E&location=499) ^ref-8616
+
+---
+より少なく、しかしより良く」 — location: [552](kindle://book?action=open&asin=B00QQKCV6E&location=552) ^ref-42694
+
+---
+レストラン「エル・ブジ」 — location: [555](kindle://book?action=open&asin=B00QQKCV6E&location=555) ^ref-54421
+
+---
+努力した分だけ報われる」というのは、ただの幻想だ。 — location: [562](kindle://book?action=open&asin=B00QQKCV6E&location=562) ^ref-27544
+
+---
+これらを大切にしない企業がどこにあると言うのだろう。それに、羅列されているだけでは優先順位がわからない。 — location: [671](kindle://book?action=open&asin=B00QQKCV6E&location=671) ^ref-18236
+
+---
+トレードオフから目をそむけても、 トレードオフから逃れることはできない。 — location: [690](kindle://book?action=open&asin=B00QQKCV6E&location=690) ^ref-27622
+
+---
+何に全力を注ごうか？」と考える。小さな違いだが、積み重なると人生に大きな差がついてくる。 — location: [728](kindle://book?action=open&asin=B00QQKCV6E&location=728) ^ref-30354
+
+---
+集まり、デザイン思考を身につける — location: [794](kindle://book?action=open&asin=B00QQKCV6E&location=794) ^ref-42615
+
+---
+もうひとつの逆説的な事実。仕事が忙しくなればなるほど、考える時間を確保することがより必要になる。 — location: [842](kindle://book?action=open&asin=B00QQKCV6E&location=842) ^ref-41153
+
+---
+が、朝の５時から夜の９時までぶっ通しでミーティングをやっていた日があるんです。１日を終えたとき、すっかり消耗しきっていました。これじゃ仕事の奴隷じゃないかってね。 — location: [850](kindle://book?action=open&asin=B00QQKCV6E&location=850) ^ref-53825
+
+---
+それがどういう意味を持ち、なぜ重要なのかを理解しなくてはならないんです」 — location: [898](kindle://book?action=open&asin=B00QQKCV6E&location=898) ^ref-17202
+
+---
+の集まりではなく、点同士をつなげる線に気づくことができる。 — location: [919](kindle://book?action=open&asin=B00QQKCV6E&location=919) ^ref-11239
+
+---
+突きつける。遊びこそが創造性と探究心の源だと知っているからだ。 — location: [1090](kindle://book?action=open&asin=B00QQKCV6E&location=1090) ^ref-16122
+
+---
+冷静な分析や抽象的思考 — location: [1153](kindle://book?action=open&asin=B00QQKCV6E&location=1153) ^ref-57775
+
+---
+絶対にイエスだと言いきれないなら、それはすなわちノーである」 — location: [1255](kindle://book?action=open&asin=B00QQKCV6E&location=1255) ^ref-56787
+
+---
+選びたいから」選ぶ自由だ。 — location: [1285](kindle://book?action=open&asin=B00QQKCV6E&location=1285) ^ref-54901
+
+---
+非エッセンシャル思考の人はいつも、消極的な基準でものごとを選んでいる。 　「上司に言われたからやる」「誰かに頼まれたからやる」、あるいは「みんながやっているからやる」という基準だ。 — location: [1288](kindle://book?action=open&asin=B00QQKCV6E&location=1288) ^ref-703
+
+---
+絶対にイエスだと言いきれないなら、 それはすなわちノーである。 — location: [1333](kindle://book?action=open&asin=B00QQKCV6E&location=1333) ^ref-41448
+
+---
+①そのチャンスについて、記述する 　②考慮するに値するチャンスの「最低限の基準」を３つ書き出す 　③考慮するに値するチャンスの「理想の基準」を３つ書き出す — location: [1365](kindle://book?action=open&asin=B00QQKCV6E&location=1365) ^ref-35847
+
+---
+自分がどんな目的に向かっているのかをとことん明確に定義しなければならない。 — location: [1430](kindle://book?action=open&asin=B00QQKCV6E&location=1430) ^ref-38958
+
+---
+も、目的が明確でなければやがて問題が巣食い、はびこっていく。 — location: [1441](kindle://book?action=open&asin=B00QQKCV6E&location=1441) ^ref-34728
+
+---
+本質目標」 — location: [1469](kindle://book?action=open&asin=B00QQKCV6E&location=1469) ^ref-19396
+
+---
+タフな問いに答えることが必要だ。トレードオフを直視し、本質から外れたものごとを断固として切り捨てなくてはならない。 — location: [1523](kindle://book?action=open&asin=B00QQKCV6E&location=1523) ^ref-22219
+
+---
+大切なことを知っていれば断ることができる — location: [1560](kindle://book?action=open&asin=B00QQKCV6E&location=1560) ^ref-11893
+
+---
+ノーと言える人は仕事ができる」と彼は考えていた。 — location: [1620](kindle://book?action=open&asin=B00QQKCV6E&location=1620) ^ref-35073
+
+---
+判断を関係性から切り離す — location: [1629](kindle://book?action=open&asin=B00QQKCV6E&location=1629) ^ref-10367
+
+---
+この世のトラブルの半分は、イエスを言うのを焦りすぎ、 　　　ノーを言うのを渋りすぎることからくる。 — location: [1723](kindle://book?action=open&asin=B00QQKCV6E&location=1723) ^ref-1576
+
+---
+もったいない」と言われつづけたことにあるという結論に達した。 — location: [1790](kindle://book?action=open&asin=B00QQKCV6E&location=1790) ^ref-19728
+
+---
+に、そのプロジェクトと結婚しているわけじゃないんだからさ」 — location: [1826](kindle://book?action=open&asin=B00QQKCV6E&location=1826) ^ref-58173
+
+---
+見積もりは１・５倍で考える — location: [2202](kindle://book?action=open&asin=B00QQKCV6E&location=2202) ^ref-40346
+
+---
+計画錯誤（プランニング・ファラシー） — location: [2212](kindle://book?action=open&asin=B00QQKCV6E&location=2212) ^ref-55783
+
+---
+周囲によく見られたいから」という説はなかなか興味深い。匿名で見積もりをさせた場合には、計画錯誤が起こらなかったという報告もある（ — location: [2223](kindle://book?action=open&asin=B00QQKCV6E&location=2223) ^ref-553
+
+---
+一方、エッセンシャル思考の人は目の前の症状に惑わされず、どこが本当の問題なのかを見極めようとする。何が妨げになっているのかを特定し、もっとも効果的に処置をする。 — location: [2293](kindle://book?action=open&asin=B00QQKCV6E&location=2293) ^ref-31066
+
+---
+成果を生まない努力をやめる — location: [2298](kindle://book?action=open&asin=B00QQKCV6E&location=2298) ^ref-12346
+
+---
+完璧じゃないと駄目だ」という考えを捨てて、「完璧をめざすより終わらせることが大事」と考えよう。完成度よりもスピードを重視するのだ。 — location: [2332](kindle://book?action=open&asin=B00QQKCV6E&location=2332) ^ref-20116
+
+---
+日々のささやかな進歩」こそがやる気を引き出し、高いパフォーマンスを可能にすると結論づけた。 — location: [2399](kindle://book?action=open&asin=B00QQKCV6E&location=2399) ^ref-43933
+
+---
+完璧をめざすよりまず終わらせろ」という言葉がある（ 10）。シリコンバレーでよく耳にする言葉だが、これは別に品質を無視しろという意味ではない。瑣末なことに気をとられず、本質をやりとげろという意味だ。 — location: [2441](kindle://book?action=open&asin=B00QQKCV6E&location=2441) ^ref-15239
+
+---
+スタートアップ界隈ではＭＶＰ（minimum viable product：実用最小限の製品）という言葉もよく使われる（ 11）。「顧客にとって有用なことを最低限実現するには？」と考え、よけいなことをしないというやり方だ。 — location: [2444](kindle://book?action=open&asin=B00QQKCV6E&location=2444) ^ref-24285
+
+---
+アイデアの切れ端をツイッターで公開することを最小限の進歩に定義した。 — location: [2449](kindle://book?action=open&asin=B00QQKCV6E&location=2449) ^ref-52666
+
+---
+２週間前に 10 分間の準備をするだけで、締切前の負担がずいぶん軽くなる。 — location: [2462](kindle://book?action=open&asin=B00QQKCV6E&location=2462) ^ref-5629
+
+---
+ニューヨークに住む同僚は、ミーティングの予定が入るとすぐに 15 秒間だけ時間をとって、そのミーティングの目的をメモしておく。それだけで、当日ミーティングの計画をつくる作業がスムーズに進む。 — location: [2468](kindle://book?action=open&asin=B00QQKCV6E&location=2468) ^ref-59565
+
+---
+を手にとって読みはじめるといい。 — location: [2584](kindle://book?action=open&asin=B00QQKCV6E&location=2584) ^ref-63557
+
+---
+普段から、旅行や外出の際には必ずカメラをまわしていた。だから数はたくさんあった。ところが、映っているのは景色や食べ物や建物ばかり。 　娘の顔のアップなど数えるほどしかない。旅行先の珍しいものを撮るのに夢中で、本当に大切なものをおろそかにしていたのだ。 — location: [2886](kindle://book?action=open&asin=B00QQKCV6E&location=2886) ^ref-39657
+
+---
+本当に重要なのは何 — location: [2899](kindle://book?action=open&asin=B00QQKCV6E&location=2899) ^ref-46073
+
+---
+か？」 — location: [2899](kindle://book?action=open&asin=B00QQKCV6E&location=2899) ^ref-59183
+
+---
+調査の結果、チームのパフォーマンスは目的の明確さに大きく左右されることがわかった。 — location: [2918](kindle://book?action=open&asin=B00QQKCV6E&location=2918) ^ref-35954
+
+---
+非エッセンシャル思考のリーダーは仕事の振り方があいまいで、役割と責任を明確にしない。 — location: [2953](kindle://book?action=open&asin=B00QQKCV6E&location=2953) ^ref-2281
+
+---

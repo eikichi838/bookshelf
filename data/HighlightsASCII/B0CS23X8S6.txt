@@ -1,0 +1,45 @@
+---
+kindle-sync:
+  bookId: '50621'
+  title: 経済評論家の父から息子への手紙 お金と人生と幸せについて
+  author: 山崎元
+  asin: B0CS23X8S6
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81BEA8X2+pL._SY160.jpg'
+  highlightsCount: 9
+---
+# 経済評論家の父から息子への手紙 お金と人生と幸せについて
+## Metadata
+* Author: [山崎元](https://www.amazon.comundefined)
+* ASIN: B0CS23X8S6
+* Reference: https://www.amazon.com/dp/B0CS23X8S6
+* [Kindle link](kindle://book?action=open&asin=B0CS23X8S6)
+
+## Highlights
+経済の世界は、リスクを取ってもいいと思う人が、リスクを取りたくない人から、利益を吸い上げるようにできている。このことが、今はよりはっきりと現れつつあり、現在、その気づきの効果が大きい。 — location: [187](kindle://book?action=open&asin=B0CS23X8S6&location=187) ^ref-28724
+
+---
+肝心なのは、失敗しても借金が残らない形で、何度も試すことだ。 — location: [375](kindle://book?action=open&asin=B0CS23X8S6&location=375) ^ref-18279
+
+---
+は、（１）株式性の報酬と上手く関わること、（２）適度なリスクを取ること、（３）他人と同じにならないよう — location: [377](kindle://book?action=open&asin=B0CS23X8S6&location=377) ^ref-22549
+
+---
+安定（＝リスクを取らないこと）と引き換えに、そこそこの賃金で満足する。合意の上の契約だ。彼らこそが、世界の養分であり経済の利益の源なのだ。 — location: [608](kindle://book?action=open&asin=B0CS23X8S6&location=608) ^ref-2238
+
+---
+世の中は、リスクを取りたくない人が、リスクを取ってもいいと思う人に利益を提供するようにできている。 — location: [610](kindle://book?action=open&asin=B0CS23X8S6&location=610) ^ref-18829
+
+---
+人材価値のピークはだいたい 35 歳くらいに訪れる。 — location: [824](kindle://book?action=open&asin=B0CS23X8S6&location=824) ^ref-28630
+
+---
+自己投資で得るものは、知識・スキル・経験・人間関係・時間 — location: [838](kindle://book?action=open&asin=B0CS23X8S6&location=838) ^ref-51481
+
+---
+宗教の「効用」は、来世の幸福への期待になどあるわけではない。現世で仲間から得られる自己承認感にあるのではないか。「 — location: [1061](kindle://book?action=open&asin=B0CS23X8S6&location=1061) ^ref-56417
+
+---
+複数の「場」を意識的に持て — location: [1071](kindle://book?action=open&asin=B0CS23X8S6&location=1071) ^ref-10672
+
+---

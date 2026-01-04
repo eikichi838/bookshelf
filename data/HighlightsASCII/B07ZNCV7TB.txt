@@ -1,0 +1,59 @@
+---
+kindle-sync:
+  bookId: '9703'
+  title: 事実はなぜ人の意見を変えられないのか
+  author: ターリ・シャーロット and 上原直子
+  asin: B07ZNCV7TB
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71V3a584otL._SY160.jpg'
+  highlightsCount: 13
+---
+# 事実はなぜ人の意見を変えられないのか
+## Metadata
+* Author: [ターリ・シャーロット and 上原直子](https://www.amazon.comundefined)
+* ASIN: B07ZNCV7TB
+* Reference: https://www.amazon.com/dp/B07ZNCV7TB
+* [Kindle link](kindle://book?action=open&asin=B07ZNCV7TB)
+
+## Highlights
+人間は社会的影響を非常に受けやすい。私たちはほぼ無意識のうちに流行を追い、他人をまねる（人間がもつ社会的学習への強い傾向については、本書の後半で取り上げる）。 — location: [475](kindle://book?action=open&asin=B07ZNCV7TB&location=475) ^ref-57849
+
+影響力の武器　社会的影響力(真似をする)
+
+---
+まったく新しい考えを植えつけようと試みたのだ（ 24）。 — location: [533](kindle://book?action=open&asin=B07ZNCV7TB&location=533) ^ref-3415
+
+---
+意見の食い違いよりも共通点に注目することで、変化は訪れるのである。 — location: [541](kindle://book?action=open&asin=B07ZNCV7TB&location=541) ^ref-5089
+
+---
+共通の動機を見出せばいい。 — location: [569](kindle://book?action=open&asin=B07ZNCV7TB&location=569) ^ref-53627
+
+---
+『内向型人間の時代』（ — location: [617](kindle://book?action=open&asin=B07ZNCV7TB&location=617) ^ref-29679
+
+---
+脳が「一つになる」傾向が強くなるのは、映画の中で感情を掻き立てられる瞬間だった。 — location: [657](kindle://book?action=open&asin=B07ZNCV7TB&location=657) ^ref-1489
+
+---
+扁桃体は顔、とりわけ目に強く反応することがわかっている（ 21）。顔や目というのはひときわ目立つ刺激であり、特に感情的な表情を浮かべた顔は、見ている者の気持ちを高ぶらせる。 — location: [857](kindle://book?action=open&asin=B07ZNCV7TB&location=857) ^ref-20639
+
+---
+マーケティング業者が広告やホームページによく「顔」を使うのは、そのせいなのかもしれない──彼らは注目を集めたいのだ（もちろん人間からの）。 — location: [860](kindle://book?action=open&asin=B07ZNCV7TB&location=860) ^ref-65177
+
+---
+アイデアを伝える最も効果的な方法の一つは、気持ちを共有することだ。 — location: [885](kindle://book?action=open&asin=B07ZNCV7TB&location=885) ^ref-31558
+
+---
+損失忌避」 — location: [1150](kindle://book?action=open&asin=B07ZNCV7TB&location=1150) ^ref-37264
+
+---
+社会性や楽観性が大きな影響を及ぼすことが証明されており、概して社交的で楽観的な人の方が、より満足のいく人生を送るようだ（ 16）。 — location: [1221](kindle://book?action=open&asin=B07ZNCV7TB&location=1221) ^ref-40003
+
+---
+未来が不確かだとみなされるほど、たったいま得られる満足感を将来の喜びのために先送りする可能性は少なくなるというわけだ。 — location: [1236](kindle://book?action=open&asin=B07ZNCV7TB&location=1236) ^ref-16472
+
+---
+のは、その知識を自分の有利に活用できるかどうか、そしてその評価に対して自分がどんな気持ちを抱くと思うか、の二点である。 — location: [2020](kindle://book?action=open&asin=B07ZNCV7TB&location=2020) ^ref-32357
+
+---

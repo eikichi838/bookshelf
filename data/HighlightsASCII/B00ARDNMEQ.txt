@@ -1,0 +1,51 @@
+---
+kindle-sync:
+  bookId: '23834'
+  title: ファスト＆スロー　（上）
+  author: ダニエル カーネマン and 村井 章子
+  asin: B00ARDNMEQ
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/41IqC6GZA7L._SY160.jpg'
+  highlightsCount: 9
+---
+# ファスト＆スロー　（上）
+## Metadata
+* Author: [ダニエル カーネマン and 村井 章子](https://www.amazon.comundefined)
+* ASIN: B00ARDNMEQ
+* ISBN: B00CL7JAT2
+* Reference: https://www.amazon.com/dp/B00ARDNMEQ
+* [Kindle link](kindle://book?action=open&asin=B00ARDNMEQ)
+
+## Highlights
+れる「最小努力の法則（＊９）」は、肉体的な労力だけでなく認知能力にも当てはまるのである。 — location: [942](kindle://book?action=open&asin=B00ARDNMEQ&location=942) ^ref-12425
+
+---
+認知的に忙しい 状態では、利己的な選択をしやすく、挑発的な言葉遣いをしやすく、社会的な状況について表面的な判断をしやすいことも確かめられている（＊ — location: [1088](kindle://book?action=open&asin=B00ARDNMEQ&location=1088) ^ref-38940
+
+---
+プライミング効果（priming effect）」と呼び、「食べる」はＳＯＵＰのプライム（先行刺激）、「洗う」はＳＯＡＰのプライムであると言う（＊４）。 — location: [1386](kindle://book?action=open&asin=B00ARDNMEQ&location=1386) ^ref-27609
+
+---
+気分は明らかにシステム１の働きを左右する。不機嫌なときや不幸なとき、私たちは直感のきらめきを失ってしまう。 — location: [1817](kindle://book?action=open&asin=B00ARDNMEQ&location=1817) ^ref-1885
+
+---
+システム２が他のことにかかり切りのときは、私たちはほとんど何でも信じてしまう、ということだ。 — location: [2120](kindle://book?action=open&asin=B00ARDNMEQ&location=2120) ^ref-46662
+
+---
+痛恨の極みである。だが実際には私は、標本サイズを決めるのに計算などしたことがない。同僚たちと同様、慣例を信頼し、実験計画を立てるときの自分の直感を過信していた。そもそもこの問題を真剣に考えたことさえなかった。 — location: [2817](kindle://book?action=open&asin=B00ARDNMEQ&location=2817) ^ref-33892
+
+---
+アンカリング効果は単なる研究対象ではない。現実の世界で相当な威力を発揮しうる。数年前に行われた実験では、本物の不動産仲介業者に、実際に売り出されている住宅の価格を見積もってもらった。彼らは物件を見に行き、売り手の提示価格などさまざまな情報が掲載された資料を入念に調べた。しかしじつは、仲介業者の半数に見せた提示価格は正規のカタログに記載された価格よりかなり高めで、残り半数に見せた提示価格はかなり低めになっている（＊６）。こうして十分な調査をした後に、自分が買う場合の妥当な価格水準と、自分が売る場合に譲歩できる最低価格を言ってもらった。 　その後、判断をする際に考慮した要素は何かという質問にも答えてもらったが、売り手の提示価格を挙げた人はいなかった。 — location: [3118](kindle://book?action=open&asin=B00ARDNMEQ&location=3118) ^ref-53190
+
+交渉術の一つ
+
+---
+で死ぬ人は集団食中毒で死ぬ人より少ないと判断されたが、実際には五二倍も多い。 — location: [3474](kindle://book?action=open&asin=B00ARDNMEQ&location=3474) ^ref-27714
+
+---
+助けを呼んだのはたった四人。六人は最後までブースから出てこなかった。残り五人は、サクラが明らかに窒息死した頃になって、ようやく重い腰を上げた。この実験は、助けを求める声を聞いた人がほかにもいるとわかっている場合には、人は自分の責任を感じないことを示している（＊４）。 — location: [4273](kindle://book?action=open&asin=B00ARDNMEQ&location=4273) ^ref-35960
+
+明確に個人を特定しないと動かない
+(誰かがやるだろう)
+
+---

@@ -1,0 +1,27 @@
+---
+kindle-sync:
+  bookId: '59205'
+  title: ガウス過程と機械学習 (機械学習プロフェッショナルシリーズ)
+  author: 持橋大地 and 大羽成征
+  asin: B07QMMJJV8
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81gMcK3E4vL._SY160.jpg'
+  highlightsCount: 3
+---
+# ガウス過程と機械学習
+## Metadata
+* Author: [持橋大地 and 大羽成征](https://www.amazon.comundefined)
+* ASIN: B07QMMJJV8
+* Reference: https://www.amazon.com/dp/B07QMMJJV8
+* [Kindle link](kindle://book?action=open&asin=B07QMMJJV8)
+
+## Highlights
+式 (1.4）が最小になるのは a, b についての微分が０になるときですから，微分を計算して０とおいてみましょう． — location: [346](kindle://book?action=open&asin=B07QMMJJV8&location=346) ^ref-8162
+
+---
+こうした背景からカーネル法を用いた HSIC (Hilbert-Schmidt Independence Criterion）[14] といった方法が近年提案され，通常の積率相関係数でとらえられない 非線形な相関 を高精度に測ることができることが示されています．カーネル法を使えば実数値やそのベクトルだけでなく，文字列やグラフ，木といった一般的なデータ構造に対してもカーネルが定義できるため，それらの間の相関をとらえることが可能になることも大きな利点です．これらのカーネルは，ガウス過程でも用いることができます． — location: [608](kindle://book?action=open&asin=B07QMMJJV8&location=608) ^ref-31922
+
+---
+必ずしも正規分布に従わない互いに独立な誤差でも，その総和は中心極限定理によって正規分布に近づくからです＊2．また，誤差の分布形状が正規分布に従わないことがわかっていても，多くの場合，正規分布による近似はそう悪い近似にはなりません．平均と分散を定めたとき，正規分布は情報量最小（＝エントロピー最大）であるため，標本サイズが小さい場合でも安定してよい近似が得られます． — location: [637](kindle://book?action=open&asin=B07QMMJJV8&location=637) ^ref-33655
+
+---

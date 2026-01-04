@@ -1,0 +1,33 @@
+---
+kindle-sync:
+  bookId: '47661'
+  title: 幸福の「資本」論――あなたの未来を決める「３つの資本」と「８つの人生パターン」
+  author: 橘 玲
+  asin: B072FNR1DS
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/91m5vXP4d-L._SY160.jpg'
+  highlightsCount: 5
+---
+# 幸福の「資本」論――あなたの未来を決める「３つの資本」と「８つの人生パターン」
+## Metadata
+* Author: [橘 玲](https://www.amazon.comundefined)
+* ASIN: B072FNR1DS
+* Reference: https://www.amazon.com/dp/B072FNR1DS
+* [Kindle link](kindle://book?action=open&asin=B072FNR1DS)
+
+## Highlights
+興味の持てない仕事、裁量権のない仕事、希望していない地域での勤務」を命じられても、組織のなかで縁の下のちから持ちの役割を果たせるかどうかなの — location: [1167](kindle://book?action=open&asin=B072FNR1DS&location=1167) ^ref-28480
+
+---
+組織の取引コストを極大化させた大企業はイノベーションを放棄して、ベンチャー企業に投資し、成果が出れば買収しようとします。 — location: [1769](kindle://book?action=open&asin=B072FNR1DS&location=1769) ^ref-30160
+
+---
+生涯共働き」を超える最強の人生設計はありません。 — location: [1845](kindle://book?action=open&asin=B072FNR1DS&location=1845) ^ref-5782
+
+---
+最近の子どもは反抗期がなくなった」といわれますが、これは子どもが変わったのではなく、親のものわかりがよくなって友だち集団との関係に介入しなくなったからでしょう。 — location: [1921](kindle://book?action=open&asin=B072FNR1DS&location=1921) ^ref-33217
+
+---
+友だち関係の核にあるものは何か。それをひと言でいうなら「平等体験」 です。 — location: [1944](kindle://book?action=open&asin=B072FNR1DS&location=1944) ^ref-43400
+
+---

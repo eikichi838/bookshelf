@@ -1,0 +1,21 @@
+---
+kindle-sync:
+  bookId: '63179'
+  title: アサーション入門――自分も相手も大切にする自己表現法 (講談社現代新書)
+  author: 平木典子
+  asin: B01M3OH7AG
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81XBEZ43EeL._SY160.jpg'
+  highlightsCount: 1
+---
+# アサーション入門――自分も相手も大切にする自己表現法
+## Metadata
+* Author: [平木典子](https://www.amazon.comundefined)
+* ASIN: B01M3OH7AG
+* Reference: https://www.amazon.com/dp/B01M3OH7AG
+* [Kindle link](kindle://book?action=open&asin=B01M3OH7AG)
+
+## Highlights
+相手も自分と同じ状況把握をしているはずだ」と早合点しないこと — location: [1234](kindle://book?action=open&asin=B01M3OH7AG&location=1234) ^ref-36059
+
+---

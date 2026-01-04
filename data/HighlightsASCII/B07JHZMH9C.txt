@@ -1,0 +1,27 @@
+---
+kindle-sync:
+  bookId: '22786'
+  title: 技術者のためのテクニカルライティング入門講座
+  author: 髙橋 慈子
+  asin: B07JHZMH9C
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81+oDVQTkFL._SY160.jpg'
+  highlightsCount: 3
+---
+# 技術者のためのテクニカルライティング入門講座
+## Metadata
+* Author: [髙橋 慈子](https://www.amazon.comundefined)
+* ASIN: B07JHZMH9C
+* Reference: https://www.amazon.com/dp/B07JHZMH9C
+* [Kindle link](kindle://book?action=open&asin=B07JHZMH9C)
+
+## Highlights
+読み手が知りたいのは、その機能によって自分たちのビジネスにとってどのようなメリットがあるのか、どのように課題が解決するのかであって、新しい技術の詳細ではないからです。 — location: [259](kindle://book?action=open&asin=B07JHZMH9C&location=259) ^ref-17614
+
+---
+何を報告したいのか」、「次にすべきことは何か」が簡潔にまとめられていて、すぐに理解できる報告書になっていることが大切です。 — location: [303](kindle://book?action=open&asin=B07JHZMH9C&location=303) ^ref-20181
+
+---
+見出しもタイトルと同様に、「〜について」のような曖昧な表現は使わないようにしましょう。また、見出しの行頭に「■」などの記号を付けておくと、文書の中で見出しを目立たせることができます。 — location: [951](kindle://book?action=open&asin=B07JHZMH9C&location=951) ^ref-7927
+
+---

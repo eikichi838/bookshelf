@@ -1,0 +1,22 @@
+---
+kindle-sync:
+  bookId: '44523'
+  title: Ｔｈｉｎｋ　ＣＩＶＩＬＩＴＹ　「礼儀正しさ」こそ最強の生存戦略である
+  author: クリスティーン・ポラス and 夏目 大
+  asin: B07SJYTZ8X
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/712mLREqiaL._SY160.jpg'
+  highlightsCount: 1
+---
+# Ｔｈｉｎｋ　ＣＩＶＩＬＩＴＹ　「礼儀正しさ」こそ最強の生存戦略である
+## Metadata
+* Author: [クリスティーン・ポラス and 夏目 大](https://www.amazon.comundefined)
+* ASIN: B07SJYTZ8X
+* ISBN: 4492046496
+* Reference: https://www.amazon.com/dp/B07SJYTZ8X
+* [Kindle link](kindle://book?action=open&asin=B07SJYTZ8X)
+
+## Highlights
+❶ 与える人になる ❷ 成果を共有する ❸ 褒め上手な人になる ❹ フィードバック上手になる ❺ 意義を共有する — location: [2460](kindle://book?action=open&asin=B07SJYTZ8X&location=2460) ^ref-5188
+
+---

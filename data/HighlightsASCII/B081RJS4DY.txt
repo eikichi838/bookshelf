@@ -1,0 +1,42 @@
+---
+kindle-sync:
+  bookId: '57869'
+  title: 新規事業の実践論 (NewsPicksパブリッシング)
+  author: 麻生要一
+  asin: B081RJS4DY
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71t3xqrERRL._SY160.jpg'
+  highlightsCount: 8
+---
+# 新規事業の実践論
+## Metadata
+* Author: [麻生要一](https://www.amazon.comundefined)
+* ASIN: B081RJS4DY
+* Reference: https://www.amazon.com/dp/B081RJS4DY
+* [Kindle link](kindle://book?action=open&asin=B081RJS4DY)
+
+## Highlights
+多くの社内起業家は、はじめはどこか評論家気質 — location: [30](kindle://book?action=open&asin=B081RJS4DY&location=30) ^ref-38240
+
+---
+日本の労働者は手厚く守られているから です。 日本の優秀なサラリーマンは、どんなにスタートアップ企業を取り巻くエコシステムに資金が流れても、会社をやめてまで起業をしない — location: [269](kindle://book?action=open&asin=B081RJS4DY&location=269) ^ref-58943
+
+---
+顧客・課題・ソリューション仮説のセットを検証できるか。検証自体はまだ不要ですが、検証方法の方向性が見えていることがＥＮＴＲＹ期には求められます。 — location: [920](kindle://book?action=open&asin=B081RJS4DY&location=920) ^ref-7502
+
+---
+説明が求められるようになります。情報共有の仕組みを作り、マニュアルや業務フローを整備し、型化していくことが求められます。 — location: [1114](kindle://book?action=open&asin=B081RJS4DY&location=1114) ^ref-22403
+
+---
+既存事業では疑う余地もないほど正しい仕事の進め方が、新規事業開発の立ち上げ期においては、「１つたりともやってはいけないこと」になる。 — location: [1291](kindle://book?action=open&asin=B081RJS4DY&location=1291) ^ref-41071
+
+---
+確認・事例・調査・会議・資料・社内・上司・先輩・競合は、１つたりとも出現させてはいけない」。これを肝に銘じてください。 — location: [1295](kindle://book?action=open&asin=B081RJS4DY&location=1295) ^ref-3722
+
+---
+「仮説を顧客に持っていき、修正する」のサイクルをひたすら回すのが、ＥＮＴＲＹ期～ＭＶＰ期のチームがやるべき唯一のこと です。 — location: [1302](kindle://book?action=open&asin=B081RJS4DY&location=1302) ^ref-25006
+
+---
+９単語（確認・事例・調査・会議・資料・社内・上司・先輩・競合）を「１つたりとも登場させずに」回すことが重要です。 — location: [1304](kindle://book?action=open&asin=B081RJS4DY&location=1304) ^ref-21231
+
+---

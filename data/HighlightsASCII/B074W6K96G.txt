@@ -1,0 +1,90 @@
+---
+kindle-sync:
+  bookId: '52948'
+  title: ＳＩＭＰＬＥ　ＲＵＬＥＳ　「仕事が速い人」はここまでシンプルに考える 三笠書房　電子書籍
+  author: 'ドナルド・サル, キャスリーン・アイゼンハート, and 戸塚 隆将'
+  asin: B074W6K96G
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71g+ja+zlrL._SY160.jpg'
+  highlightsCount: 24
+---
+# ＳＩＭＰＬＥ　ＲＵＬＥＳ　「仕事が速い人」はここまでシンプルに考える 三笠書房　電子書籍
+## Metadata
+* Author: [ドナルド・サル, キャスリーン・アイゼンハート, and 戸塚 隆将](https://www.amazon.comundefined)
+* ASIN: B074W6K96G
+* Reference: https://www.amazon.com/dp/B074W6K96G
+* [Kindle link](kindle://book?action=open&asin=B074W6K96G)
+
+## Highlights
+心理的負荷をかけずに、よりすぐれた意思決定を生みだせることが多いのは事実である。 — location: [322](kindle://book?action=open&asin=B074W6K96G&location=322) ^ref-44626
+
+---
+よりよい決断をしたいなら、細かい要素にはこだわらずに、もっとも重要な物事に焦点を絞らなければならない。「 — location: [363](kindle://book?action=open&asin=B074W6K96G&location=363) ^ref-30745
+
+---
+集団の行動のお手本となるルールが単純で明確である場合、コミュニティのメンバーは社会の規範を乱すような行ないに対して、お互い注意を払うようになる。 — location: [440](kindle://book?action=open&asin=B074W6K96G&location=440) ^ref-44416
+
+---
+世界にはうつ病を患っている人々が三億五〇〇〇万人もいるといわれている。 — location: [531](kindle://book?action=open&asin=B074W6K96G&location=531) ^ref-35214
+
+---
+シリコンバレーに本社を構えるある大手企業は、社員採用の際に「優先順位ルール」を活用して、「現役の従業員から紹介された人物」 を優先的に雇うことにしている。 — location: [566](kindle://book?action=open&asin=B074W6K96G&location=566) ^ref-3124
+
+---
+ＣＥＯであったアレックス・バーリングはのちに、投資企業「３Ｇキャピタル」を共同創業。かのウォーレン・バフェット率いる「バークシャー・ハサウェイ」と共同出資して、ファストフード企業「バーガーキング」や食品メーカー「Ｈ・Ｊハインツ」を買収し、一躍有名になった。 — location: [592](kindle://book?action=open&asin=B074W6K96G&location=592) ^ref-51001
+
+---
+を、ノーベル経済学賞を受賞したハーバート・サイモンは「満足化基準」と呼んだ。 — location: [641](kindle://book?action=open&asin=B074W6K96G&location=641) ^ref-53446
+
+---
+は、「損失が一〇パーセントになる前に損切りする」 — location: [646](kindle://book?action=open&asin=B074W6K96G&location=646) ^ref-6499
+
+---
+パリっ子は、「満腹を感じはじめたところで食べるのをやめた」 — location: [656](kindle://book?action=open&asin=B074W6K96G&location=656) ^ref-24973
+
+---
+【頭のいい人ほど〝 逆手〟から考える — location: [688](kindle://book?action=open&asin=B074W6K96G&location=688) ^ref-9568
+
+---
+物事をうまく進めるためのルール設定」 — location: [716](kindle://book?action=open&asin=B074W6K96G&location=716) ^ref-39398
+
+---
+「ハウツー・ルール」はほかにも、 — location: [740](kindle://book?action=open&asin=B074W6K96G&location=740) ^ref-14955
+
+---
+極度のプレッシャーにさらされているとき、あるいは時間的制約が厳しいときに役立つ。 — location: [740](kindle://book?action=open&asin=B074W6K96G&location=740) ^ref-2911
+
+---
+自身も画家であり、心理学者でもあるパトリシア・ストークスの研究結果によると、ユニークな作風を確立している画家は、絵の題材や使う絵の具などを限定しているようだ。 — location: [767](kindle://book?action=open&asin=B074W6K96G&location=767) ^ref-12804
+
+---
+「選択肢を絞る」 — location: [768](kindle://book?action=open&asin=B074W6K96G&location=768) ^ref-57420
+
+---
+うかぶ。モネは六色の絵の具だけを使い、生涯で二〇〇点以上のスイレンを描き、刻一刻と移りゆく光と色彩の変化を追求した。 — location: [769](kindle://book?action=open&asin=B074W6K96G&location=769) ^ref-44276
+
+---
+「ぼくは、制約を課されるほうがむしろ多くの自由を感じる。曲づくりにルールなどないなんて、うそぶく連中には 虫酸 が走るよ。 ルールなしで、いったいどうやって創造性の高い作品をつくるっていうんだ？」 — location: [782](kindle://book?action=open&asin=B074W6K96G&location=782) ^ref-44359
+
+---
+１　火曜、木曜、金曜の午前中は単独作業を行なう 　２　ほかの時間は共同作業を行なう — location: [1044](kindle://book?action=open&asin=B074W6K96G&location=1044) ^ref-45520
+
+---
+自分がどんなゲームをプレーしているかを知り、そして勝つための戦略を練らなければ — location: [1323](kindle://book?action=open&asin=B074W6K96G&location=1323) ^ref-8720
+
+---
+あなたならこの問題にとりくむために、いつもやっていることと、絶対にやらないことはありますか」 — location: [1533](kindle://book?action=open&asin=B074W6K96G&location=1533) ^ref-47930
+
+---
+ルールを新しくつくりかえるときは、この潔さが重要 — location: [2088](kindle://book?action=open&asin=B074W6K96G&location=2088) ^ref-41827
+
+---
+自分たちが、大きな変化に直面していること」を認識すること、 — location: [2182](kindle://book?action=open&asin=B074W6K96G&location=2182) ^ref-12222
+
+---
+だが、 組織内に潜む〝腐ったリンゴ〟は、ほんのひと握り — location: [2286](kindle://book?action=open&asin=B074W6K96G&location=2286) ^ref-38710
+
+---
+振りかえりの習慣〟 — location: [2451](kindle://book?action=open&asin=B074W6K96G&location=2451) ^ref-47686
+
+---

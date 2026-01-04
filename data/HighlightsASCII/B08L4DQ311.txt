@@ -1,0 +1,162 @@
+---
+kindle-sync:
+  bookId: '52644'
+  title: データ分析人材になる。　目指すは「ビジネストランスレーター」
+  author: '木田 浩理, 伊藤 豪, 高階 勇人, and 山田 紘史'
+  asin: B08L4DQ311
+  lastAnnotatedDate: Invalid date
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81Ob3naoPAL._SY160.jpg'
+  highlightsCount: 47
+---
+# データ分析人材になる。　目指すは「ビジネストランスレーター」
+## Metadata
+* Author: [木田 浩理, 伊藤 豪, 高階 勇人, and 山田 紘史](https://www.amazon.comundefined)
+* ASIN: B08L4DQ311
+* Reference: https://www.amazon.com/dp/B08L4DQ311
+* [Kindle link](kindle://book?action=open&asin=B08L4DQ311)
+
+## Highlights
+データ分析者にはビジネス力が必要だ」 — location: [110](kindle://book?action=open&asin=B08L4DQ311&location=110) ^ref-20666
+
+---
+です。ところが、「問題」「課題」を見つける段階で、困ってしまうことがあります。一番多いのは、依頼者側が「そもそも何が悪いのか分からない」「どうしたらいいのか分からない」というケースです。 — location: [279](kindle://book?action=open&asin=B08L4DQ311&location=279) ^ref-33762
+
+---
+何より、それら「仮説」のほとんどが最近の変化を表すものではなく、「売上が低い理由」にはなり得たとしても、「売上が急に減った理由」にはなりません。「売上が急に減った」という問題に対しては、別の「課題」があるはずです。 — location: [498](kindle://book?action=open&asin=B08L4DQ311&location=498) ^ref-11346
+
+---
+て「もし自分が客だったら」と考えてみました。「 — location: [504](kindle://book?action=open&asin=B08L4DQ311&location=504) ^ref-64042
+
+---
+抱えている「課題」と入手可能な「データ」について調べ、最適と思われる「分析方法」を選び、最終的にどのようにして「仕組み化」する — location: [554](kindle://book?action=open&asin=B08L4DQ311&location=554) ^ref-52065
+
+---
+行動データ」「心理データ」 — location: [587](kindle://book?action=open&asin=B08L4DQ311&location=587) ^ref-17037
+
+---
+商品力」「クリエーティブ力」「メディア — location: [617](kindle://book?action=open&asin=B08L4DQ311&location=617) ^ref-2359
+
+---
+として「顧客ロイヤルティーの向上」とそのためのデータ分析は、 — location: [637](kindle://book?action=open&asin=B08L4DQ311&location=637) ^ref-2921
+
+---
+「データや指標は、使ってもらってナンボ」「会社が良くなってナンボ」 — location: [658](kindle://book?action=open&asin=B08L4DQ311&location=658) ^ref-59462
+
+---
+ことといえば、売上上位の顧客に手書きのＤＭを送付することくらいで、「顧客を育成する」「離反顧客を引き戻す」 — location: [686](kindle://book?action=open&asin=B08L4DQ311&location=686) ^ref-50644
+
+---
+Ｄｅｍａｎｄ：データ分析を行う目的を現場と共有する — location: [695](kindle://book?action=open&asin=B08L4DQ311&location=695) ^ref-6034
+
+---
+Ｄａｔａ：データを収集する方法を検討する — location: [713](kindle://book?action=open&asin=B08L4DQ311&location=713) ^ref-6630
+
+---
+ＫＫＤ（ — location: [743](kindle://book?action=open&asin=B08L4DQ311&location=743) ^ref-16601
+
+---
+分析結果が意思決定者の背中を押すことにあります。 — location: [771](kindle://book?action=open&asin=B08L4DQ311&location=771) ^ref-52280
+
+---
+どういう分析をすればビジネス的なインパクトのある結果を提示できるのか」 — location: [773](kindle://book?action=open&asin=B08L4DQ311&location=773) ^ref-36534
+
+---
+は、「解くべき問題を定義する」 — location: [789](kindle://book?action=open&asin=B08L4DQ311&location=789) ^ref-49061
+
+---
+自分の言葉で依頼事項を整理し、「何をアウトプットすべきなのか」を依頼者と相互理解します。そうすれば、落とし穴にはまるのを防げます。 — location: [827](kindle://book?action=open&asin=B08L4DQ311&location=827) ^ref-3134
+
+---
+よかれと思って要望を勝手に再定義し、依頼者とコミュニケーションをとらずに進めた結果がこれです。 — location: [835](kindle://book?action=open&asin=B08L4DQ311&location=835) ^ref-10490
+
+---
+（１）これまでどんな分析をしていたかをヒアリングする （２）分析結果を基に何をしたいのかを理解する （３）課題の背景を理解するまでヒアリングする （４）分析方針を提案＆合意する （５）期待値の調整 — location: [842](kindle://book?action=open&asin=B08L4DQ311&location=842) ^ref-37287
+
+---
+現状、ここまでの条件がそろっているので、明日までというのであれば、関東地域だけ利益を出せます」 — location: [871](kindle://book?action=open&asin=B08L4DQ311&location=871) ^ref-6950
+
+---
+仕事として捉えれば、決して褒められるものではありません。限りある時間と予算の中で結果を出すために、計画を立てるのがＤｅｓｉｇｎステップです。 — location: [897](kindle://book?action=open&asin=B08L4DQ311&location=897) ^ref-30030
+
+---
+実際にデータ分析していると、「なぜ？」と不思議に思う集計結果に出合うこと — location: [926](kindle://book?action=open&asin=B08L4DQ311&location=926) ^ref-51692
+
+---
+集計ミスではない場合、「なぜ？」の原因を見つけ、依頼者に説明すると、依頼者は「面白い」と満足してくれることが多いです。 — location: [927](kindle://book?action=open&asin=B08L4DQ311&location=927) ^ref-20463
+
+---
+「（２）レポーティング（可視化）」は浅く広くデータを理解するのに有効で、仮説検証は、深いインサイトを抽出するのに役立ちます。 — location: [937](kindle://book?action=open&asin=B08L4DQ311&location=937) ^ref-1036
+
+---
+もし依頼者から「何も分からなかったなんてひどいじゃないか」と言われたら、右に書いたように、次の分析案件につながる話をしてみてはどうでしょ — location: [986](kindle://book?action=open&asin=B08L4DQ311&location=986) ^ref-30854
+
+---
+精度を犠牲にして回帰分析をはじめとした説明可能なモデルを使うのか、説明を犠牲にしてディープラーニングのような説明不可のモデルを使うのか、などについても合意する必要があります。 — location: [1011](kindle://book?action=open&asin=B08L4DQ311&location=1011) ^ref-55657
+
+---
+社内と社外の場合、社外の方がスムーズで、社内の方が面倒なことが多いです。 — location: [1249](kindle://book?action=open&asin=B08L4DQ311&location=1249) ^ref-58782
+
+---
+その部署にとってどういったメリットがあるのか」を明確にして、伝えることをお勧めします。 — location: [1259](kindle://book?action=open&asin=B08L4DQ311&location=1259) ^ref-64712
+
+---
+データ定義書（もしくはテーブル定義書）を作成しているはずです。 — location: [1276](kindle://book?action=open&asin=B08L4DQ311&location=1276) ^ref-8530
+
+---
+Ｄａｔａステップ全体を通して言えるのは、なるべく早くデータを入手し、次のＤｅｖｅｌｏｐステップに進むことです。なぜなら、Ｄｅｖｅｌｏｐステップに進んでデータを分析した結果、「再度データを抽出したほうがよい」となることが多いからです。完璧にデータをそろえてから次に進むより、まずは入手しやすいデータで分析を始めたほうがよいのです。 — location: [1327](kindle://book?action=open&asin=B08L4DQ311&location=1327) ^ref-49572
+
+---
+高度なプログラミング力がなくてもデータ分析が行えるツールが増えてきています。 — location: [1349](kindle://book?action=open&asin=B08L4DQ311&location=1349) ^ref-11586
+
+---
+売上とそれにかかるコストのような相いれない関係（トレードオフ関係）の要素を入れ、ベストの提案だけでなく、ベターな提案も入れておくことで、その先の議論に進めるようになります。 — location: [1393](kindle://book?action=open&asin=B08L4DQ311&location=1393) ^ref-52228
+
+---
+は「鮮度」「偏り具合」「粒度」 — location: [1485](kindle://book?action=open&asin=B08L4DQ311&location=1485) ^ref-19146
+
+---
+［１］予測したい項目を決める（売上、離脱率、故障率など） ［２］予測を導く項目を決める（販促の実施有無、顧客の属性、世の中の環境、値段などの商品属性など） ［３］予測のアルゴリズムや予測式を決める（Ｘａ＋ｂ＝Ｙのような予測関数） — location: [1648](kindle://book?action=open&asin=B08L4DQ311&location=1648) ^ref-59736
+
+---
+ＤＭを送るべき顧客を選ぶ仕組みに予測モデルを組み込む場合、どういった要因が影響を与えているかを考える必要がなければ、なるべく適した顧客に送ればよいので、精度が高いアルゴリズムを採用した方がよいでしょう。このように、使うシーンに応じて、使うアルゴリズムを選択するようにします。 — location: [1677](kindle://book?action=open&asin=B08L4DQ311&location=1677) ^ref-49791
+
+DM:精度重視(ニューラル/ディープ)
+アクション:理由重視(回帰/決定木)
+
+---
+そこで、予測結果と合わせて、どういった条件下（何が変わらないという条件）での予測かを明記しておくことが大事になります。 — location: [1690](kindle://book?action=open&asin=B08L4DQ311&location=1690) ^ref-6214
+
+---
+・結論を先に書く ・１スライド１センテンス ・作ったスライドを捨てる勇気 — location: [1706](kindle://book?action=open&asin=B08L4DQ311&location=1706) ^ref-20471
+
+---
+作ったスライドを捨てる勇気」 — location: [1716](kindle://book?action=open&asin=B08L4DQ311&location=1716) ^ref-56232
+
+---
+（１）分析の環境を整える （２）データチェック （３）データの加工・分析 （４）結果を見せる際のストーリーを作る （５）可視化ツールを使ってデータを見せながら議論する — location: [1748](kindle://book?action=open&asin=B08L4DQ311&location=1748) ^ref-23271
+
+---
+「ダッシュボードとは」 　ダッシュボードとは、自動車や飛行機などの走行状況を確認するための計器類と同義で、ダッシュボードを見ながらマーケティング施策や経営方針などの「走行状況」の変化を常に確認し、それを基に進むべき道を変えていくための可視化されたツールです。 — location: [1809](kindle://book?action=open&asin=B08L4DQ311&location=1809) ^ref-26774
+
+---
+そもそも分析目的は？ — location: [2074](kindle://book?action=open&asin=B08L4DQ311&location=2074) ^ref-30845
+
+---
+①マーケティング施策に対する迅速な分析のアウトプット ②施策実施におけるアイデアや示唆 ③経営層に対する社内データの分かりやすい可視化 — location: [2076](kindle://book?action=open&asin=B08L4DQ311&location=2076) ^ref-34157
+
+---
+データ分析人材を育成する際に注意すべき点は、「心理的安全性の担保」です。会社としてはそれなりの時間とコストをかけて育成を実施している — location: [2276](kindle://book?action=open&asin=B08L4DQ311&location=2276) ^ref-64598
+
+---
+Ｂ（Ｂａｔｔｌｅｆｉｅｌｄ）：どの戦場か Ａ（Ａｓｓｅｔ）：強みを生かす資産は何か Ｓ（Ｓｔｒｅｎｇｔｈ）：強みは何か Ｃ（Ｃｕｓｔｏｍｅｒ）：顧客は誰か Ｓ（Ｓｅｌｌｉｎｇ Ｍｅｓｓａｇｅ）：強みと資産を生かした顧客に響くメッセージ 　マーケティング的なアウトプットを説明する際にも、ＢＡＳｉＣＳフレームワークを用いた説明は有用です。例えば、ある健康系商品のターゲット層が明確になった場合、ＢＡＳｉＣＳを用いると次のように説明できます。 Ｂ：足腰の強化戦場 Ａ：ブランド力に反応する傾向 — location: [2340](kindle://book?action=open&asin=B08L4DQ311&location=2340) ^ref-61989
+
+---
+「ジョブ理論」を理解する — location: [2353](kindle://book?action=open&asin=B08L4DQ311&location=2353) ^ref-29270
+
+---
+のは、「社会的」「機能的」「感情的」のいずれかの課題（ジョブ）を片付けるために「商品」を「雇う」（＝買う） — location: [2356](kindle://book?action=open&asin=B08L4DQ311&location=2356) ^ref-56145
+
+---
+大阪大学 延岡健太郎教授が提唱されている「ＳＥＤＡ」という言葉があります。「Ｓｃｉｅｎｃｅ」「Ｅｎｇｉｎｅｅｒｉｎｇ」「Ｄｅｓｉｇｎ」「Ａｒｔ」のそれぞれの頭文字をとった言葉で、どちらかというと「Ｓ」と「Ｅ」は理系、「Ｄ」と「Ａ」は文系です。 — location: [2419](kindle://book?action=open&asin=B08L4DQ311&location=2419) ^ref-21628
+
+---
